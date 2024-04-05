@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @frontend-sirojiddin
+- 👋 Hi, I’m @backend-sirojiddin
 - 👀 I’m interested in Javascript
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on everyone
